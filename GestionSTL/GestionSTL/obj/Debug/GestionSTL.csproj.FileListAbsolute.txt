@@ -1,0 +1,132 @@
+D:\GestionSTL\GestionSTL\bin\Debug\GestionSTL.exe.config
+D:\GestionSTL\GestionSTL\bin\Debug\GestionSTL.exe
+D:\GestionSTL\GestionSTL\bin\Debug\GestionSTL.pdb
+D:\GestionSTL\GestionSTL\obj\Debug\GestionSTL.csprojResolveAssemblyReference.cache
+D:\GestionSTL\GestionSTL\obj\Debug\GestionSTL.Form1.resources
+D:\GestionSTL\GestionSTL\obj\Debug\GestionSTL.Properties.Resources.resources
+D:\GestionSTL\GestionSTL\obj\Debug\GestionSTL.csproj.GenerateResource.Cache
+D:\GestionSTL\GestionSTL\obj\Debug\GestionSTL.exe
+D:\GestionSTL\GestionSTL\obj\Debug\GestionSTL.pdb
+D:\GestionSTL\GestionSTL\obj\Debug\GestionSTL.authentification.resources
+D:\GestionSTL\GestionSTL\obj\Debug\GestionSTL.admin.resources
+C:\Users\W.S.I\Desktop\LFSI2\S2\MCOO\GestionSTL\GestionSTL\bin\Debug\GestionSTL.exe.config
+C:\Users\W.S.I\Desktop\LFSI2\S2\MCOO\GestionSTL\GestionSTL\bin\Debug\GestionSTL.exe
+C:\Users\W.S.I\Desktop\LFSI2\S2\MCOO\GestionSTL\GestionSTL\bin\Debug\GestionSTL.pdb
+C:\Users\W.S.I\Desktop\LFSI2\S2\MCOO\GestionSTL\GestionSTL\obj\Debug\GestionSTL.csprojAssemblyReference.cache
+C:\Users\W.S.I\Desktop\LFSI2\S2\MCOO\GestionSTL\GestionSTL\obj\Debug\GestionSTL.admin.resources
+C:\Users\W.S.I\Desktop\LFSI2\S2\MCOO\GestionSTL\GestionSTL\obj\Debug\GestionSTL.agent.resources
+C:\Users\W.S.I\Desktop\LFSI2\S2\MCOO\GestionSTL\GestionSTL\obj\Debug\GestionSTL.ajoutvehicule.resources
+C:\Users\W.S.I\Desktop\LFSI2\S2\MCOO\GestionSTL\GestionSTL\obj\Debug\GestionSTL.authentification.resources
+C:\Users\W.S.I\Desktop\LFSI2\S2\MCOO\GestionSTL\GestionSTL\obj\Debug\GestionSTL.Form1.resources
+C:\Users\W.S.I\Desktop\LFSI2\S2\MCOO\GestionSTL\GestionSTL\obj\Debug\GestionSTL.Properties.Resources.resources
+C:\Users\W.S.I\Desktop\LFSI2\S2\MCOO\GestionSTL\GestionSTL\obj\Debug\GestionSTL.csproj.GenerateResource.cache
+C:\Users\W.S.I\Desktop\LFSI2\S2\MCOO\GestionSTL\GestionSTL\obj\Debug\GestionSTL.csproj.CoreCompileInputs.cache
+C:\Users\W.S.I\Desktop\LFSI2\S2\MCOO\GestionSTL\GestionSTL\obj\Debug\GestionSTL.exe
+C:\Users\W.S.I\Desktop\LFSI2\S2\MCOO\GestionSTL\GestionSTL\obj\Debug\GestionSTL.pdb
+C:\Users\W.S.I\Desktop\LFSI2\S2\Mini Projet\GestionSTL\GestionSTL\bin\Debug\GestionSTL.exe.config
+C:\Users\W.S.I\Desktop\LFSI2\S2\Mini Projet\GestionSTL\GestionSTL\bin\Debug\GestionSTL.exe
+C:\Users\W.S.I\Desktop\LFSI2\S2\Mini Projet\GestionSTL\GestionSTL\bin\Debug\GestionSTL.pdb
+C:\Users\W.S.I\Desktop\LFSI2\S2\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.csprojAssemblyReference.cache
+C:\Users\W.S.I\Desktop\LFSI2\S2\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.admin.resources
+C:\Users\W.S.I\Desktop\LFSI2\S2\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.agent.resources
+C:\Users\W.S.I\Desktop\LFSI2\S2\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.authentification.resources
+C:\Users\W.S.I\Desktop\LFSI2\S2\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.Bienvenue.resources
+C:\Users\W.S.I\Desktop\LFSI2\S2\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.Properties.Resources.resources
+C:\Users\W.S.I\Desktop\LFSI2\S2\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.csproj.GenerateResource.cache
+C:\Users\W.S.I\Desktop\LFSI2\S2\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.csproj.CoreCompileInputs.cache
+C:\Users\W.S.I\Desktop\LFSI2\S2\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.exe
+C:\Users\W.S.I\Desktop\LFSI2\S2\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.pdb
+C:\Users\W.S.I\Desktop\LFSI2\S2\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.ajouterclient.resources
+C:\Users\W.S.I\Desktop\LFSI2\S2\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.ajoutercontrat.resources
+C:\Users\W.S.I\Desktop\LFSI2\S2\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.ajouterfacture.resources
+C:\Users\W.S.I\Desktop\LFSI2\S2\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.ajoutervehicule.resources
+C:\Users\W.S.I\Desktop\LFSI2\S2\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.modifierclient.resources
+C:\Users\W.S.I\Desktop\LFSI2\S2\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.modifiercontrat.resources
+C:\Users\W.S.I\Desktop\LFSI2\S2\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.modifierfacture.resources
+C:\Users\W.S.I\Desktop\LFSI2\S2\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.supprimerclient.resources
+C:\Users\W.S.I\Desktop\LFSI2\S2\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.supprimercontrat.resources
+C:\Users\W.S.I\Desktop\LFSI2\S2\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.supprimerfacture.resources
+C:\Users\W.S.I\Desktop\LFSI2\S2\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.ajoutercompte.resources
+C:\Users\W.S.I\Desktop\LFSI2\S2\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.ajoutertarif.resources
+C:\Users\W.S.I\Desktop\LFSI2\S2\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.modifiercompte.resources
+C:\Users\W.S.I\Desktop\LFSI2\S2\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.modifiertarif.resources
+C:\Users\W.S.I\Desktop\LFSI2\S2\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.modifiervehicule.resources
+C:\Users\W.S.I\Desktop\LFSI2\S2\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.supprimercompte.resources
+C:\Users\W.S.I\Desktop\LFSI2\S2\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.supprimertarif.resources
+C:\Users\W.S.I\Desktop\LFSI2\S2\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.supprimervehicule.resources
+C:\Users\W.S.I\Desktop\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.csprojAssemblyReference.cache
+C:\Users\W.S.I\Desktop\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.admin.resources
+C:\Users\W.S.I\Desktop\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.agent.resources
+C:\Users\W.S.I\Desktop\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.ajouterclient.resources
+C:\Users\W.S.I\Desktop\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.ajoutercompte.resources
+C:\Users\W.S.I\Desktop\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.ajoutercontrat.resources
+C:\Users\W.S.I\Desktop\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.ajouterfacture.resources
+C:\Users\W.S.I\Desktop\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.ajoutertarif.resources
+C:\Users\W.S.I\Desktop\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.ajoutervehicule.resources
+C:\Users\W.S.I\Desktop\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.authentification.resources
+C:\Users\W.S.I\Desktop\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.Bienvenue.resources
+C:\Users\W.S.I\Desktop\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.modifierclient.resources
+C:\Users\W.S.I\Desktop\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.modifiercompte.resources
+C:\Users\W.S.I\Desktop\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.modifiercontrat.resources
+C:\Users\W.S.I\Desktop\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.modifierfacture.resources
+C:\Users\W.S.I\Desktop\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.modifiertarif.resources
+C:\Users\W.S.I\Desktop\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.modifiervehicule.resources
+C:\Users\W.S.I\Desktop\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.Properties.Resources.resources
+C:\Users\W.S.I\Desktop\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.supprimerclient.resources
+C:\Users\W.S.I\Desktop\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.supprimercompte.resources
+C:\Users\W.S.I\Desktop\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.supprimercontrat.resources
+C:\Users\W.S.I\Desktop\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.supprimerfacture.resources
+C:\Users\W.S.I\Desktop\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.supprimertarif.resources
+C:\Users\W.S.I\Desktop\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.supprimervehicule.resources
+C:\Users\W.S.I\Desktop\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.csproj.GenerateResource.cache
+C:\Users\W.S.I\Desktop\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.csproj.CoreCompileInputs.cache
+C:\Users\W.S.I\Desktop\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.exe
+C:\Users\W.S.I\Desktop\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.pdb
+C:\Users\W.S.I\Desktop\Mini Projet\GestionSTL\GestionSTL\bin\Debug\GestionSTL.exe.config
+C:\Users\W.S.I\Desktop\Mini Projet\GestionSTL\GestionSTL\bin\Debug\GestionSTL.exe
+C:\Users\W.S.I\Desktop\Mini Projet\GestionSTL\GestionSTL\bin\Debug\GestionSTL.pdb
+C:\Users\W.S.I\Desktop\Mini Projet\GestionSTL\GestionSTL\bin\Debug\MySql.Data.dll
+C:\Users\W.S.I\Desktop\Mini Projet\GestionSTL\GestionSTL\bin\Debug\Google.Protobuf.dll
+C:\Users\W.S.I\Desktop\Mini Projet\GestionSTL\GestionSTL\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\W.S.I\Desktop\Mini Projet\GestionSTL\GestionSTL\bin\Debug\MySql.Data.xml
+C:\Users\W.S.I\Desktop\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.csproj.CopyComplete
+E:\LFSI\LFSI2\Mini Projet\GestionSTL\GestionSTL\bin\Debug\GestionSTL.exe.config
+E:\LFSI\LFSI2\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.exe
+E:\LFSI\LFSI2\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.pdb
+E:\LFSI\LFSI2\Mini Projet\GestionSTL\GestionSTL\bin\Debug\GestionSTL.exe
+E:\LFSI\LFSI2\Mini Projet\GestionSTL\GestionSTL\bin\Debug\GestionSTL.pdb
+E:\LFSI\LFSI2\Mini Projet\GestionSTL\GestionSTL\bin\Debug\mscorlib.dll
+E:\LFSI\LFSI2\Mini Projet\GestionSTL\GestionSTL\bin\Debug\Google.Protobuf.dll
+E:\LFSI\LFSI2\Mini Projet\GestionSTL\GestionSTL\bin\Debug\BouncyCastle.Crypto.dll
+E:\LFSI\LFSI2\Mini Projet\GestionSTL\GestionSTL\bin\Debug\MySql.Data.xml
+E:\LFSI\LFSI2\Mini Projet\GestionSTL\GestionSTL\bin\Debug\fr\mscorlib.resources.dll
+E:\LFSI\LFSI2\Mini Projet\GestionSTL\GestionSTL\bin\Debug\normidna.nlp
+E:\LFSI\LFSI2\Mini Projet\GestionSTL\GestionSTL\bin\Debug\normnfc.nlp
+E:\LFSI\LFSI2\Mini Projet\GestionSTL\GestionSTL\bin\Debug\normnfd.nlp
+E:\LFSI\LFSI2\Mini Projet\GestionSTL\GestionSTL\bin\Debug\normnfkc.nlp
+E:\LFSI\LFSI2\Mini Projet\GestionSTL\GestionSTL\bin\Debug\normnfkd.nlp
+E:\LFSI\LFSI2\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.csprojResolveAssemblyReference.cache
+E:\LFSI\LFSI2\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.admin.resources
+E:\LFSI\LFSI2\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.agent.resources
+E:\LFSI\LFSI2\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.ajouterclient.resources
+E:\LFSI\LFSI2\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.ajoutercompte.resources
+E:\LFSI\LFSI2\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.ajoutercontrat.resources
+E:\LFSI\LFSI2\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.ajouterfacture.resources
+E:\LFSI\LFSI2\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.ajoutertarif.resources
+E:\LFSI\LFSI2\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.ajoutervehicule.resources
+E:\LFSI\LFSI2\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.authentification.resources
+E:\LFSI\LFSI2\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.Bienvenue.resources
+E:\LFSI\LFSI2\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.modifierclient.resources
+E:\LFSI\LFSI2\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.modifiercompte.resources
+E:\LFSI\LFSI2\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.modifiercontrat.resources
+E:\LFSI\LFSI2\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.modifierfacture.resources
+E:\LFSI\LFSI2\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.modifiertarif.resources
+E:\LFSI\LFSI2\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.modifiervehicule.resources
+E:\LFSI\LFSI2\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.Properties.Resources.resources
+E:\LFSI\LFSI2\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.supprimerclient.resources
+E:\LFSI\LFSI2\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.supprimercompte.resources
+E:\LFSI\LFSI2\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.supprimercontrat.resources
+E:\LFSI\LFSI2\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.supprimerfacture.resources
+E:\LFSI\LFSI2\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.supprimertarif.resources
+E:\LFSI\LFSI2\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.supprimervehicule.resources
+E:\LFSI\LFSI2\Mini Projet\GestionSTL\GestionSTL\obj\Debug\GestionSTL.csproj.GenerateResource.Cache

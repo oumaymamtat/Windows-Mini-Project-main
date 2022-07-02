@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?PowerDesigner signature="Workspace" version="15.1.0.2850"?>
+<!-- Veuillez ne pas modifier ce fichier -->
+
+<Workspace>
+	<Local Expanded="Yes">
+		<Model Expanded="Yes" ID="{4BCF0432-C99F-437D-8B9E-51AFFB8A3939}" Name="STL" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="STL.oom"/>
+		<Model Expanded="Yes" ID="{3A11E6AB-F07D-49E4-9C8F-0FEE79C34418}" Name="STL" Selected="Yes" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="STL.pdm"/>
+	</Local>
+	<BrowserModule Name="Référentiel"/>
+</Workspace>
